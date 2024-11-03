@@ -22,5 +22,5 @@ Here are a few of my favorite projects:
 - **Email:** me@tushitgarg.com
 - **LinkedIn:** [Tushitgarg](https://linkedin.com/in/tushitgarg)
 - **Twitter:** [@tushitgargg](https://x.com/tushitgargg)
-
+- **Portfolio:** [link](https://portfolio.tushitgarg.com/)
 ---
