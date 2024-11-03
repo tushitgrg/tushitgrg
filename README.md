@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**tushitgrg/tushitgrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Tushit Garg! 👋
+
+**I like full stack web development and web3 technologies.** 
+
+![Banner](https://raw.githubusercontent.com/tushitgrg/tushitgrg/refs/heads/main/098d4085b3492d6949f1bd0f5e677812%202.JPG) <!-- Add a custom banner or leave this line out if you don’t have one -->
+
+---
+
+## 📫 Contact Me
+
+- **Email:** me@tushitgarg.com
+- **LinkedIn:** [Tushitgarg](https://linkedin.com/in/tushitgarg)
+- **Twitter:** [@tushitgargg](https://x.com/tushitgargg)
+
+---
