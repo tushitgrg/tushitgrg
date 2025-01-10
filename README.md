@@ -5,7 +5,7 @@
 
 **I like full stack web development and web3 technologies.** 
 
-![Banner](https://raw.githubusercontent.com/tushitgrg/tushitgrg/refs/heads/main/098d4085b3492d6949f1bd0f5e677812%202.JPG) <!-- Add a custom banner or leave this line out if you don’t have one -->
+![Banner](https://github.com/tushitgrg/tushitgrg/blob/main/Untitled%20design%202.PNG?raw=true) <!-- Add a custom banner or leave this line out if you don’t have one -->
 
 ---
 
